@@ -76,3 +76,9 @@ Once all the critical data has been identified and packed, attackers will try to
    > - Exfiltration over Physical Medium
 
 ---
+## Red Team Infrastructure
+
+- [ ] **C2 Server :** It used by attackers to maintain communications with compromised systems within a target network.
+- [ ] **Payload Server :** A controlled host used in authorized red-team exercises to host and deliver test attacks to target systems.
+- [ ] **Redirector Server :** A redirector is a system that proxies all traffic to your command and control server.
+
