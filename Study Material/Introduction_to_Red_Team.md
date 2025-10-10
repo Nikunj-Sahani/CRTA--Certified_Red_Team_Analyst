@@ -94,7 +94,7 @@ Once all the critical data has been identified and packed, attackers will try to
    - Safe test that imitates attacker goals to check detection and response — **not real attack steps.**
 
 ---
-### APT (Advanced Persistent Threat) :
+### ✍️ APT (Advanced Persistent Threat) :
 A targeted, ***long-term cyber attack** where skilled hackers secretly enter a network, **stay hidden, and continuously steal sensitive data** or spy on the organization.
 
 ### DMZ (Demilitarized Zone) :
@@ -134,7 +134,7 @@ Taking advantage of a software, system, or human weakness **(vulnerability) to g
     > *Example :* payload/windows/shell/bind_tcp
 
 ---
-### Shells :
+### ✍️ Shells :
 A shell is a program/interface to run OS commands (e.g., bash, sh, PowerShell, cmd).
 
 > - **Common types (brief):**
@@ -148,7 +148,7 @@ A shell is a program/interface to run OS commands (e.g., bash, sh, PowerShell, c
 ---
 #### Session INTRO - 2
 
-## ENTERPRISE NETWORK
+## ✍️ ENTERPRISE NETWORK
 Enterprise Network consists of various role-assigned servers.
 
 - **Web server :** It delivers web pages and content to users over the internet using HTTP or HTTPS.
@@ -167,7 +167,7 @@ Enterprise Network consists of various role-assigned servers.
 > - *Ex -* Jenkins Server, TeamCity, Bamboo
 
 ---
-## Active Directory 
+## ✍️ Active Directory 
 Active Directory (AD) is a Microsoft service that stores and manages user accounts, computers, and network resources, enabling authentication and access control in a Windows network.
 
 - **Active Directory Forest -** Forest is a single instance of Active Directory.
@@ -184,7 +184,7 @@ The physical entities that make up an organized network
 - A server in an Active Directory network that authenticates users, enforces security policies, and manages access to domain resources.
 
 ---
-## Kerberos Authentication
+## ✍️ Kerberos Authentication
 It is a secure network authentication protocol that **uses secret-key cryptography and tickets to verify user identities** without sending passwords over the network.
 
 - A ticket is a form of authentication and authorization token
@@ -203,13 +203,13 @@ It allows an authenticated domain user credentials to be *re-used to access reso
 - [ ] **Constrained Delegation :** It allows the Application Server to request access to ONLY specified services on specific servers.
 
 ---
-## Technologies Exploitation in Red Teaming
+## ✍️ Technologies Exploitation in Red Teaming
 
 - **Web Technology :** Knowledge of **OWASP Top 10 Web Vulnerabilities** should be known.
 - **Network Technology :** Understanding of Network devices like **routers, switches, servers,** computers etc and network protocols.
 - **Cloud Technology :** Cloud services like Amazon Web Services (AWS), Microsoft Azure and Google Cloud Platform (GCP).
 
-## Physical Red Teaming :
+## ✍️ Physical Red Teaming :
 Red Team develops unique attack situations leveraging manual and automated procedures.
  - **Red Teams are trained** to elude *detection* from one or more of the following security devices:
   - [ ] CCTVs (closed circuit television cameras)
@@ -221,7 +221,7 @@ Red Team develops unique attack situations leveraging manual and automated proce
   - [ ] Steel security doors
   - [ ] Remote entry gates
 
-## Wireless Attacks :
+## ✍️ Wireless Attacks :
 The massive rise in cyberattacks via public Wi-Fi networks, open enterprise Wi-Fi campus connected to internal network possess a huge threat.
 - **Common Wireless Vulnerabilities:**
   - [ ] Use of Default SSIDs and Passwords
