@@ -1,7 +1,11 @@
 <h1 align="center">🔺 Introduction to Red Teaming 🔺 </h1>
 
+#### Session INTRO - 1
 ---
-#### VIDEO INTRO - 1
+    > - || 𝗙𝗼𝗿 𝘁𝗵𝗲 𝗳𝘂𝗹𝗹 𝗰𝗼𝗻𝘁𝗲𝗻𝘁, 𝗽𝗹𝗲𝗮𝘀𝗲 𝗿𝗲𝗮𝗰𝗵 𝗼𝘂𝘁 𝘃𝗶𝗮 𝗟𝗶𝗻𝗸𝗲𝗱𝗜𝗻 𝗼𝗿 𝗜𝗻𝘀𝘁𝗮𝗴𝗿𝗮𝗺 𝗮𝗻𝗱 𝗜’𝗹𝗹 𝗽𝗿𝗼𝘃𝗶𝗱𝗲 𝘆𝗼𝘂.||
+ 
+---
+
 ## A Red Team tests an organization’s infrastructure by simulating attacks.
 
 Attacks performed by Red Teams are divided into **3 groups:**
@@ -142,5 +146,90 @@ A shell is a program/interface to run OS commands (e.g., bash, sh, PowerShell, c
   - [ ] **Agent/implant shells :** Advanced post-exploitation agents (e.g., Meterpreter).
 
 ---
-#### VIDEO INTRO - 2
-## 
+#### Session INTRO - 2
+
+## ENTERPRISE NETWORK
+Enterprise Network consists of various role-assigned servers.
+
+- **Web server :** It delivers web pages and content to users over the internet using HTTP or HTTPS.
+> - *Ex -* HTML, images, APIs, etc.
+
+- **Mail-Server :** A mail server sends, receives, and stores emails over the internet for users and domains.
+> - SMTP is used when e-mails are delivered.
+
+- **Database server :** It stores, manages, and provides access to data for other computers or applications.
+> - It allows users to access data across the network.
+
+- **Jump server (or jump host) :** A secure gateway server used to access and **manage devices or servers in a protected network.**
+> - Typically accessed using SSH or RDP.
+
+- **Automation server :** It Automatically runs tasks, scripts, or workflows without manual intervention.
+> - *Ex -* Jenkins Server, TeamCity, Bamboo
+
+---
+## Active Directory 
+Active Directory (AD) is a Microsoft service that stores and manages user accounts, computers, and network resources, enabling authentication and access control in a Windows network.
+
+- **Active Directory Forest -** Forest is a single instance of Active Directory.
+- **Active Directory Domains -** It can be thought as containers within the scope of a Forest.
+
+### Active Directory Objects
+The physical entities that make up an organized network
+
+> - **Domain Users :** User account that are allowed to authenticate to machines/servers in the domain.
+> - **Domain Groups (Global Groups) :** It can be used to assign permissions to access resources in any domain.
+> - **Domain Computers :** Machines that are connected to a domain and hence become a member of a domain.
+
+**Domain Controller (DC) :** 
+- A server in an Active Directory network that authenticates users, enforces security policies, and manages access to domain resources.
+
+---
+## Kerberos Authentication
+It is a secure network authentication protocol that **uses secret-key cryptography and tickets to verify user identities** without sending passwords over the network.
+
+- A ticket is a form of authentication and authorization token
+  - [ ] Ticket Granting Ticket **(TGT) for Authentication**
+  - [ ] Ticket Granting Service **(TGS) for Authorization**
+
+---
+#### Session INTRO - 3
+
+## Kerberos Delegation
+It allows an authenticated domain user credentials to be *re-used to access resources hosted on a different server in a domain.*
+> - This utility is useful in **multi-tier applications or architecture.**
+
+**Types of Kerberos Delegation :**
+- [ ] **Unconstrained Delegation :** It allows the Application Server to request access to ANY service on any server in the domain.
+- [ ] **Constrained Delegation :** It allows the Application Server to request access to ONLY specified services on specific servers.
+
+---
+## Technologies Exploitation in Red Teaming
+
+- **Web Technology :** Knowledge of **OWASP Top 10 Web Vulnerabilities** should be known.
+- **Network Technology :** Understanding of Network devices like **routers, switches, servers,** computers etc and network protocols.
+- **Cloud Technology :** Cloud services like Amazon Web Services (AWS), Microsoft Azure and Google Cloud Platform (GCP).
+
+## Physical Red Teaming :
+Red Team develops unique attack situations leveraging manual and automated procedures.
+ - **Red Teams are trained** to elude *detection* from one or more of the following security devices:
+  - [ ] CCTVs (closed circuit television cameras)
+  - [ ] Keypad entry locks
+  - [ ] Wireless intercoms/video intercoms
+  - [ ] Motion/sensor detects
+  - [ ] Single or double deadbolts
+  - [ ] Door and window locks
+  - [ ] Steel security doors
+  - [ ] Remote entry gates
+
+## Wireless Attacks :
+The massive rise in cyberattacks via public Wi-Fi networks, open enterprise Wi-Fi campus connected to internal network possess a huge threat.
+- **Common Wireless Vulnerabilities:**
+  - [ ] Use of Default SSIDs and Passwords
+  - [ ] Downgrading the wireless security protocol to WEP and to older WPA version.
+  - [ ] WPA2 Krack vulnerability
+  - [ ] Fake WiFi Access Points, Evil Twins, and Man in the Middle Attacks
+  - [ ] Packet Sniffing
+  - [ ] MAC spoofing
+
+---
+---
