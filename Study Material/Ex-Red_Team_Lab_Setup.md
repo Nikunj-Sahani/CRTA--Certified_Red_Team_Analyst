@@ -1,4 +1,4 @@
-<h1 align="center">‼️ Red Team Lab Setup ‼️</h1>
+<h1 align="center">‼️External - Red Team Lab Setup ‼️</h1>
 
 ---
 ### *Required the Setup first*
