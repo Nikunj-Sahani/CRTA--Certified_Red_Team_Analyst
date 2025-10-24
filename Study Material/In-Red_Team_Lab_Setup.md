@@ -33,7 +33,7 @@ I will Guide you in Few Steps, You can watch Full setup on Youtube, if you are b
 I have to Download the Windows 10 from Official Website.
 
 - The Link is here the Download
-> - [ Download - MediaCreationTool ](https://www.microsoft.com/en-us/evalcenter/download-windows-server-2016)
+> - [ Download - MediaCreationTool ](https://github.com/Nikunj-Sahani/CRTA--Certified_Red_Team_Analyst/blob/main/Tools%20%26%20Payloads/MediaCreationTool_22H2.exe)
 > - Then Download *Windows 10* in your File System.
 - [ ] After Download ➡️ **Install the ISO Windows server in VM Ware.**
 
