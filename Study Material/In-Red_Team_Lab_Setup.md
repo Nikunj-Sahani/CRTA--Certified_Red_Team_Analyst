@@ -34,6 +34,8 @@ I have to Download the Windows 10 from Official Website.
 
 - The Link is here the Download
 > - [ Download - MediaCreationTool ](https://github.com/Nikunj-Sahani/CRTA--Certified_Red_Team_Analyst/blob/main/Tools%20%26%20Payloads/MediaCreationTool_22H2.exe)
+> - Open the Page and click on **View Raw to Auto Download.**
+> - Install this Tool and Do the process for downloading Windows 10.
 > - Then Download *Windows 10* in your File System.
 - [ ] After Download ➡️ **Install the ISO Windows server in VM Ware.**
 
