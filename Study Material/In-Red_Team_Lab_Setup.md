@@ -21,7 +21,8 @@ I have to Download the Windows Server 2016 from Official Website.
 > - Then Download *the Windows 10* in your File System.
 - [ ] After Download ➡️ **Install the Windows server in VM Ware.**
 
-## Configure the Windows 10 in VM Ware
+---
+## 👉 Configure the Windows 10 in VM Ware
 I will Guide you in Few Steps, You can watch Full setup on Youtube, if you are beginner.
 
 - ➡️ Open VM Ware
@@ -35,7 +36,54 @@ I will Guide you in Few Steps, You can watch Full setup on Youtube, if you are b
 - ➡️ *Now Add ISO file in CD/DVD.*
 - ➡️ *Complete Setup, Now Run and Set the Windows Properly.*
 
-## Network Setup 
+---
+## 👉 Network Setup 
+Go to Network Setup - 
+
+- **Ethernet**
+> - **Network and Sharing Center**
+  
+<div style="text-align: center;"><img src="https://github.com/Nikunj-Sahani/CRTA--Certified_Red_Team_Analyst/blob/main/Study%20Material/Images/In-10-1.png" alt="Sample Image"></div>
+
+---
+### 💁 Network and Sharing Center
+- **Ethernet0**
+
+<div style="text-align: center;"><img src="https://github.com/Nikunj-Sahani/CRTA--Certified_Red_Team_Analyst/blob/main/Study%20Material/Images/In-10-2.png" alt="Sample Image"></div>
+
+---
+### 💁 Ethernet0
+- Choose TCP/IPv4 option
+> - *Go on Properties*
+
+<div style="text-align: center;"><img src="https://github.com/Nikunj-Sahani/CRTA--Certified_Red_Team_Analyst/blob/main/Study%20Material/Images/In-10-3.png" alt="Sample Image"></div>
+
+---
+### 💁 IP Assigning
+Choose option  
+➡️ **Use the Following IP Address**
+
+- [ ] Ip address
+- [ ] Subnet Mask
+- [ ] Default gateway
+
+➡️ **Use the Following DNS server Address**
+- [ ] Preferred DNS server - *as your target machine or connected machine*
+      
+<div style="text-align: center;"><img src="https://github.com/Nikunj-Sahani/CRTA--Certified_Red_Team_Analyst/blob/main/Study%20Material/Images/In-10-4.png" alt="Sample Image"></div>
+
+---
+### 💁 IP Checking
+Open Command prompt and check the IP assigned.
+- cmd - *ipconfig*
+ > - IPv4 are showed below.
+
+<div style="text-align: center;"><img src="https://github.com/Nikunj-Sahani/CRTA--Certified_Red_Team_Analyst/blob/main/Study%20Material/Images/In-10-5.png" alt="Sample Image"></div>
+
+---
+---
+
+
 
 
 ## 🚀 Windows Server 2016 - Setup
