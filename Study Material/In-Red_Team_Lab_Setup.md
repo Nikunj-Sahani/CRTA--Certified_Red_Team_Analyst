@@ -28,7 +28,8 @@ I will Guide you in Few Steps, You can watch Full setup on Youtube, if you are b
 <h2 align="center"> 🖥️ Windows - Network Setup 🖥️</h2>
 
 ---
-## 🪟 1. Windows 10 🪟
+<h2 align="center"> 👨‍💻 1. Windows 10 </h2>
+
 I have to Download the Windows 10 from Official Website.
 
 - The Link is here the Download
@@ -83,7 +84,8 @@ Open Command prompt and check the IP assigned.
 ---
 ---
 
-## 🪟 2. Windows Server 2016 🪟
+<h2 align="center"> 🪟 2. Windows Server 2016 🪟 </h2>
+
 I have to Download the Windows Server 2016 from Official Website.
 
 - The Link is here the Download
@@ -136,8 +138,8 @@ Open Command prompt and check the IP assigned.
 
 ---
 ---
+<h2 align="center"> 🪟 3. Windows Server 2012 🪟 </h2>
 
- ## 🪟 3. Windows Server 2012 🪟
 I have to Download the Windows Server 2012 from Official Website.
 
 - The Link is here the Download
