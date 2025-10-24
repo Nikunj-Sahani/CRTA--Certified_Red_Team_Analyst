@@ -2,9 +2,11 @@
 
 ---
 ### *Required the Setup first*
-## VM Ware Setup Done Before
-## Windows Server 2016
-
+## VM Ware Setup
+> - Network setup on these 3 Windows Servers
+### 👨‍💻 Windows Server 2012
+### 👨‍💻 Windows Server 2016
+### 👨‍💻 Windows 10
 ---
 ## 🚀 Windows Server 2016 - Setup
 I have to Download the Windows Server 2016 from Official Website.
