@@ -16,3 +16,6 @@ Create a new VM → Install Windows Server
 ---
 ## Installing Active Directory Domain Services (AD DS)
 
+<div style="text-align: center;"><img src="https://github.com/Nikunj-Sahani/CRTA--Certified_Red_Team_Analyst/blob/main/Study%20Material/Images/AD-1.png" alt="Sample Image"></div>
+
+---
