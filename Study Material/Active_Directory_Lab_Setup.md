@@ -19,11 +19,119 @@ Create a new VM → Install Windows Server → Setup Windows Server
 Dashboard of Server Manager
 
 - Option **Manage** in Right
-- Click on → **Add roles and Features**
+- Click on → **Add Roles and Features**
   
 <div style="text-align: center;"><img src="https://github.com/Nikunj-Sahani/CRTA--Certified_Red_Team_Analyst/blob/main/Study%20Material/Images/AD-1.png" alt="Sample Image"></div>
 
 ---
-## 
+## Adding Roles & Features
+Here you can the option *Installation Type*
+
+- **Role-Based & Feature-based installation**
+> - Choose this and Click next..
 
 <div style="text-align: center;"><img src="https://github.com/Nikunj-Sahani/CRTA--Certified_Red_Team_Analyst/blob/main/Study%20Material/Images/AD-2.png" alt="Sample Image"></div>
+
+---
+## Destination Server
+Here you can the option *Server Selection*
+
+- **Select a server from server pool** → Choose this
+> - In the box you got Machine Name *select it & Click next..*
+
+<div style="text-align: center;"><img src="https://github.com/Nikunj-Sahani/CRTA--Certified_Red_Team_Analyst/blob/main/Study%20Material/Images/AD-3.png" alt="Sample Image"></div>
+
+---
+## Server Roles - AD DS
+Here you can select the *Required Roles and Features.*
+
+- Select → Active Directory Domain Services → **Add Features**
+  
+<div style="text-align: center;"><img src="https://github.com/Nikunj-Sahani/CRTA--Certified_Red_Team_Analyst/blob/main/Study%20Material/Images/AD-4.png" alt="Sample Image"></div>
+
+---
+## Server Roles - DNS
+Here you can select the *Required Roles and Features.*
+
+- Select → DNS server → **Add Features**
+  > - Choose required roles and Click next..
+<div style="text-align: center;"><img src="https://github.com/Nikunj-Sahani/CRTA--Certified_Red_Team_Analyst/blob/main/Study%20Material/Images/AD-5.png" alt="Sample Image"></div>
+
+---
+## Installation
+Here we got the install option.
+
+- **Click and tick it** → Restart the destination server automatically if required.
+> - Then **click on install.**
+  
+<div style="text-align: center;"><img src="https://github.com/Nikunj-Sahani/CRTA--Certified_Red_Team_Analyst/blob/main/Study%20Material/Images/AD-6.png" alt="Sample Image"></div>
+
+---
+## Installation initiated
+View installation progress - It takes some time.
+
+- Starting installation → Completed Installation → Close it.
+  
+<div style="text-align: center;"><img src="https://github.com/Nikunj-Sahani/CRTA--Certified_Red_Team_Analyst/blob/main/Study%20Material/Images/AD-7.png" alt="Sample Image"></div>
+
+---
+## Dashboard of Server Manager
+Check the installation part
+
+- **AD DS →** Green Sign means successfully installed.
+- **DNS →** Green Sign means successfully installed.
+  
+<div style="text-align: center;"><img src="https://github.com/Nikunj-Sahani/CRTA--Certified_Red_Team_Analyst/blob/main/Study%20Material/Images/AD-8.png" alt="Sample Image"></div>
+
+---
+## Dashboard - Notification
+After Roles and Features Added - I got a notification
+
+- *Notification 1.* → Feature installation done.
+- *Notification 2.* → Post-Deployment configuration
+> - In N.2 → **Promote this server to a domain controller**
+> - Click on it open the page of Configuration
+
+<div style="text-align: center;"><img src="https://github.com/Nikunj-Sahani/CRTA--Certified_Red_Team_Analyst/blob/main/Study%20Material/Images/AD-9.png" alt="Sample Image"></div>
+
+---
+## Deployment Configuration - Domain
+Select Deployment operation
+
+- Add a new forest
+- Specify the domain name - accordingly.
+> - **Root domain name -** Anything a/c to you
+> - (Here practice.labs) → Click next
+
+<div style="text-align: center;"><img src="https://github.com/Nikunj-Sahani/CRTA--Certified_Red_Team_Analyst/blob/main/Study%20Material/Images/AD-10.png" alt="Sample Image"></div>
+
+---
+## Deployment Configuration - Password
+Here you can set the password.
+
+- Type the **DSRM password**
+> - Password & Confirm password → Click next
+
+<div style="text-align: center;"><img src="https://github.com/Nikunj-Sahani/CRTA--Certified_Red_Team_Analyst/blob/main/Study%20Material/Images/AD-11.png" alt="Sample Image"></div>
+
+---
+## Domain Auto Configured
+Click on next only
+
+- From here you can only skip the steps by click next.
+> - → Click next → **Click next** → Click next → Get Installation option
+
+<div style="text-align: center;"><img src="https://github.com/Nikunj-Sahani/CRTA--Certified_Red_Team_Analyst/blob/main/Study%20Material/Images/AD-12.png" alt="Sample Image"></div>
+
+---
+## Installation
+Here we get the option *Install*
+
+- CLick on Install
+- After Installation Done.
+- Restart the PC
+> - Now **Domain configured to this Machine.**
+  
+<div style="text-align: center;"><img src="https://github.com/Nikunj-Sahani/CRTA--Certified_Red_Team_Analyst/blob/main/Study%20Material/Images/AD-15.png" alt="Sample Image"></div>
+
+---
