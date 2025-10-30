@@ -1,7 +1,7 @@
 <h1 align="center"> 🔌 Domain Joining 🔌</h1>
 
 ---
-## ✔️ Domain Joining - Win 10
+# ✔️ Domain Joining - Win 10
 This joining of domain is in windows 10 machine.
 
 - Go to **Control Panel**
@@ -120,3 +120,6 @@ You got logged in
 
 ---
 ---
+
+# ✔️ Domain Joining - Win 2012
+
