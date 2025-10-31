@@ -14,10 +14,10 @@
 ## Virtual Machines
 
 #### 🧑‍💻 1. Kali Linux 🎩......................... [ ⏏️ Click to Download ⏏️ ](https://cdimage.kali.org/kali-2025.3/kali-linux-2025.3-installer-amd64.iso)
-#### 🧑‍💻 2. Metasploitable 2 📼.............. [ ⏏️ Click to Download ⏏️ ](https://sourceforge.net/projects/metasploitable/)
-#### 🧑‍💻 3. Windows 10 : 2022 🪟........... [ ⏏️ Click to Download ⏏️ ](https://www.microsoft.com/en-in/software-download/windows10)
-#### 🧑‍💻 4. Windows Server : 2016 🏢..... [ ⏏️ Click to Download ⏏️ ](https://www.microsoft.com/en-us/evalcenter/download-windows-server-2016)
-#### 🧑‍💻 5. Windows Server : 2012 🌆..... [ ⏏️ Click to Download ⏏️ ](https://www.microsoft.com/en-us/evalcenter/download-windows-server-2012-r2)
+#### 🧑‍💻 2. Metasploitable 2 📼.............. [ ⏏️ Click to Download ⏏️ ](https://sourceforge.net/projects/metasploitable/) ::: 
+#### 🧑‍💻 3. Windows 10 : 2022 🪟........... [ ⏏️ Click to Download ⏏️ ](https://www.microsoft.com/en-in/software-download/windows10) ::: [ 💾 Direct Download 💾 ](https://drive.google.com/file/d/1JoBTJiUI6G0bRBezGUmaXtfYv73YpZ8l/view?usp=drive_link)
+#### 🧑‍💻 4. Windows Server : 2016 🏢..... [ ⏏️ Click to Download ⏏️ ](https://www.microsoft.com/en-us/evalcenter/download-windows-server-2016) ::: [ 💾 Direct Download 💾 ](https://drive.google.com/file/d/13YYix0s5lnAKM-59ROC7mcepEmtOhS9L/view?usp=drive_link)
+#### 🧑‍💻 5. Windows Server : 2012 🌆..... [ ⏏️ Click to Download ⏏️ ](https://www.microsoft.com/en-us/evalcenter/download-windows-server-2012-r2) ::: [ 💾 Direct Download 💾 ](https://drive.google.com/file/d/1i-qz3r_jtAHD8enanv4m9ZikaRelHTXy/view?usp=drive_link)
 
 ---
 ## IP Assigning
