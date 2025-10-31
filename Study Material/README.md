@@ -1,7 +1,7 @@
 <h1 align="center"> ⭕ Red Team Virtual Machine Setup ⭕ </h1>
 
 ---
-### VM WARE 👑 ....... [ ⏏️ Click to Download ⏏️ ](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion)
+### VM WARE 👑 ....... [ ⏏️ Click to Download ⏏️ ](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion) ::: [ 💾 Direct Download 💾 ](https://drive.google.com/file/d/1OFWN9-OOTdkuw4_zn-k_J13js9yX1kGN/view?usp=drive_link)
 ---
 ### Topics
 
@@ -13,8 +13,8 @@
 ---
 ## Virtual Machines
 
-#### 🧑‍💻 1. Kali Linux 🎩......................... [ ♨️ Click to Download ♨️ ](https://cdimage.kali.org/kali-2025.3/kali-linux-2025.3-installer-amd64.iso) :::
-#### 🧑‍💻 2. Metasploitable 2 📼.............. [ ♨️ Click to Download ♨️ ](https://sourceforge.net/projects/metasploitable/) ::: 
+#### 🧑‍💻 1. Kali Linux 🎩......................... [ ♨️ Click to Download ♨️ ](https://cdimage.kali.org/kali-2025.3/kali-linux-2025.3-installer-amd64.iso) ::: [ 💾 Direct Download 💾 ](https://drive.google.com/file/d/1VxRMKg_JE-7xy2huehNWZWWiwvp1XQlQ/view?usp=drive_link)
+#### 🧑‍💻 2. Metasploitable 2 📼.............. [ ♨️ Click to Download ♨️ ](https://sourceforge.net/projects/metasploitable/) ::: [ 💾 Direct Download 💾 ](https://drive.google.com/file/d/18e73cIn8IYj85U7pME0ORF0kNGBTWF4s/view?usp=drive_link)
 #### 🧑‍💻 3. Windows 10 : 2022 🪟........... [ ♨️ Click to Download ♨️ ](https://www.microsoft.com/en-in/software-download/windows10) ::: [ 💾 Direct Download 💾 ](https://drive.google.com/file/d/1JoBTJiUI6G0bRBezGUmaXtfYv73YpZ8l/view?usp=drive_link)
 #### 🧑‍💻 4. Windows Server : 2016 🏢..... [ ♨️ Click to Download ♨️ ](https://www.microsoft.com/en-us/evalcenter/download-windows-server-2016) ::: [ 💾 Direct Download 💾 ](https://drive.google.com/file/d/13YYix0s5lnAKM-59ROC7mcepEmtOhS9L/view?usp=drive_link)
 #### 🧑‍💻 5. Windows Server : 2012 🌆..... [ ♨️ Click to Download ♨️ ](https://www.microsoft.com/en-us/evalcenter/download-windows-server-2012-r2) ::: [ 💾 Direct Download 💾 ](https://drive.google.com/file/d/1i-qz3r_jtAHD8enanv4m9ZikaRelHTXy/view?usp=drive_link)
