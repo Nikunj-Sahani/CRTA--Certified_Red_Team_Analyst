@@ -8,6 +8,7 @@
  - **Virtual Machines Required**
  - **Download link of Virtual Machine**
  - **IP assigning**
+ - **Domain Joining**
 
 ---
 ## Virtual Machines
@@ -43,4 +44,24 @@
 - *Network Adapter - Internal*
 - IP configured - **10.10.10.3**
 
+---
+## Domain Joining
+
+#### Windows Server 2016 - Domain Controller
+- Domain Created here.
+- Domain - **cyberwarfare.corp**
+
+#### Winodws 10 - Employee Machine
+- Domain Connect here in system Setting
+- Type Domain Name - **cyberwarfare.corp**
+- Enter* Username & Password*
+> - Connected & Joined.
+
+#### Winodws 2012 - App Server
+- Domain Connect here in system Setting
+- Type Domain Name - **cyberwarfare.corp**
+- Enter* Username & Password*
+> - Connected & Joined.
+
+---
 ---
